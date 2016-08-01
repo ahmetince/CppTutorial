@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+
+int intValue = 5; // integer type
+char charValue = 'a'; // character type
+bool booleanValue = true; // boolean type
+int intArray[5] = { 9,8,7,6,5}; // integer array type
+
+
+
+
+
+return 0;
+}
